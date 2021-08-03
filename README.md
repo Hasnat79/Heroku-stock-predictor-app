@@ -6,7 +6,7 @@
 ![Project Image](./Images/image_3.png)
 
 
-> Analysing event data of sample football games
+
 ---
 
 ### Table of Contents
