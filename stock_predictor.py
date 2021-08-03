@@ -67,10 +67,10 @@ forecast=m.predict(future)
 
 forecast_state.text("fitting the prophet model... done!")
 
-st.subheader(f"Future stock prices of {selected_stock}")
+st.subheader(f"Future stock prices of {selected_stock} for next {n_years} years")
 st.write(forecast)
 
-st.subheader(f'Future stock prices of {selected_stock}: interactive graph')
+st.subheader(f'Future stock prices of {selected_stock} for next {n_years} years: interactive graph')
 fig1=plot_plotly(m,forecast)
 st.plotly_chart(fig1)
 

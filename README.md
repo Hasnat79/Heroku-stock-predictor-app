@@ -1,10 +1,10 @@
-# Football analytics web app
+# Heroku stock predictor app
 
 
 ![Project Image](./Images/image_1.png)
-![Project Image](./Images/image_2.png) 
+
 ![Project Image](./Images/image_3.png)
-![Project Image](./Images/image_4.png)
+
 
 > Analysing event data of sample football games
 ---
@@ -63,7 +63,7 @@ streamlit run stock_predictor.py
 - [Prophet](https://facebook.github.io/prophet/)
 - [Predicting Google’s Stock Prices Using Facebook’s Prophet](https://medium.com/mlearning-ai/predicting-googles-stock-prices-using-facebook-s-prophet-4829c83a8590)
 
-[Back To The Top](#football-analytics-web-app)
+[Back To The Top](#heroku-stock-predictor-app)
 
 ---
 ## Author Info
@@ -71,7 +71,7 @@ streamlit run stock_predictor.py
 - Twitter - [@hasnat_omi](https://twitter.com/hasnat_omi)
 - Email - [hasnatabdullah79@gmail.com](hasnatabdullah79@gmail.com)
 
-[Back To The Top](#football-analytics-web-app)
+[Back To The Top](#heroku-stock-predictor-app)
 
 
 
