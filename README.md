@@ -1,5 +1,5 @@
 # Heroku stock predictor app
-
+> see your stock performance upto 5 years ahead of time
 
 ![Project Image](./Images/image_1.png)
 
